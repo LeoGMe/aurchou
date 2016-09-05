@@ -1,0 +1,44 @@
+@font-face {
+  font-family: &#39;Cairo&#39;;
+  font-style: normal;
+  font-weight: 400;
+  src: local(&#39;Cairo&#39;), local(&#39;Cairo-Regular&#39;), url(https://fonts.gstatic.com/s/cairo/v1/uc235nrGU4eQarTItvQJHA.ttf) format(&#39;truetype&#39;);
+}
+@font-face {
+  font-family: &#39;Changa&#39;;
+  font-style: normal;
+  font-weight: 400;
+  src: local(&#39;Changa&#39;), local(&#39;Changa-Regular&#39;), url(https://fonts.gstatic.com/s/changa/v2/DjHZUDmiyHwu1Q_0rRhPfA.ttf) format(&#39;truetype&#39;);
+}
+@font-face {
+  font-family: &#39;Messiri&#39;;
+  font-style: normal;
+  font-weight: 400;
+  src: local(&#39;El Messiri&#39;), local(&#39;ElMessiri-Regular&#39;), url(https://fonts.gstatic.com/s/elmessiri/v1/NkdCULRL1M3nYMCr20xcmC3USBnSvpkopQaUR-2r7iU.ttf) format(&#39;truetype&#39;);
+}
+@font-face {
+  font-family: &#39;Kufi&#39;;
+  font-style: normal;
+  font-weight: 400;
+  src: url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.eot);
+  src: url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.eot?#iefix) format(&#39;embedded-opentype&#39;),
+       url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.woff2) format(&#39;woff2&#39;),
+       url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.woff) format(&#39;woff&#39;),
+       url(//fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.ttf) format(&#39;truetype&#39;);
+}
+@font-face {
+font-family: &#39;geek&#39;;
+src: url(&#39;https://5156122ab5b5f14723e05415971e2f0099321252.googledrive.com/host/0B3s9ca8NGFXWLUZQMEM4cUNrd3M/0B9tIHXTX92w4T3hlZW42WEYxZzQ&#39;);
+src: url(&#39;https://5156122ab5b5f14723e05415971e2f0099321252.googledrive.com/host/0B3s9ca8NGFXWLUZQMEM4cUNrd3M/0B9tIHXTX92w4T3hlZW42WEYxZzQ&#39;) format(&#39;embedded-opentype&#39;),
+url(&#39;https://5156122ab5b5f14723e05415971e2f0099321252.googledrive.com/host/0B3s9ca8NGFXWLUZQMEM4cUNrd3M/0B9tIHXTX92w4M2FuTXdCcW9aVzg&#39;) format(&#39;woff2&#39;),
+url(&#39;https://5156122ab5b5f14723e05415971e2f0099321252.googledrive.com/host/0B3s9ca8NGFXWLUZQMEM4cUNrd3M/0B9tIHXTX92w4bnNnY2xZdDJhTG8&#39;) format(&#39;woff&#39;),
+url(&#39;https://5156122ab5b5f14723e05415971e2f0099321252.googledrive.com/host/0B3s9ca8NGFXWLUZQMEM4cUNrd3M/0B9tIHXTX92w4eXdVUnNxYkdVYms&#39;) format(&#39;truetype&#39;),
+url(&#39;https://googledrive.com/host/0B9tIHXTX92w4c0dkY01hS2o5dWc#BlogFont&#39;) format(&#39;svg&#39;);
+}
+@font-face {
+font-family: &#39;Alba&#39;;
+src: url(&#39;https://googledrive.com/host/0B-3cyo_HIYMId3VnamplRXFWSjg&#39;);
+src: url(&#39;https://googledrive.com/host/0B-3cyo_HIYMId3VnamplRXFWSjg?#iefix&#39;) format(&#39;embedded-opentype&#39;), url(&#39;https://googledrive.com/host/0B-3cyo_HIYMIamozZ2FqcTUxcUk&#39;) format(&#39;woff2&#39;), url(&#39;https://googledrive.com/host/0B-3cyo_HIYMIamozZ2FqcTUxcUk&#39;) format(&#39;woff&#39;), url(&#39;https://googledrive.com/host/0B-3cyo_HIYMIVFpoVS0ybWJJcWM&#39;) format(&#39;truetype&#39;), url(&#39;https://googledrive.com/host/0B-3cyo_HIYMIZ3Y1U3BSUTR2bm8#Alba-Sans&#39;) format(&#39;svg&#39;);
+font-weight: normal;
+font-style: normal;
+}
