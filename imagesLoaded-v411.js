@@ -161,8 +161,8 @@ ImagesLoaded.prototype.addElementImages = function( elem ) {
 
 var elementNodeTypes = {
   1: true,
-  27: true,
-  39: true
+  9: true,
+  11: true
 };
 
 ImagesLoaded.prototype.addElementBackgroundImages = function( elem ) {
