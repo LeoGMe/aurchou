@@ -11,7 +11,7 @@ var nsOptions =
     shuffle: true,
     startSlideIndex: 0, //0-based
     navigateByTap: true,
-    pauseOnHover: true,
+    pauseOnHover: false,
     keyboardNav: true,
     before: null,
     license: "b2e981"
